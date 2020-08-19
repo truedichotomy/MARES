@@ -5,17 +5,17 @@ body {
 h1 {
     color: aliceblue;
     font-family: Verdana;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 p {
     color: aliceblue;
     font-family: Verdana;
-    font-size: 100%;
+    font-size: 150%;
 }
 
 a {
     color: gainsboro;
     font-family: Verdana;
-    font-size: 150%;
+    font-size: 200%;
 }
