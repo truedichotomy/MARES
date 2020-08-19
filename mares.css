@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Verdana;
+    font-size: 150%;
+}
+
+p {
+    color: aliceblue;
+    font-family: Verdana;
+    font-size: 100%;
+}
+
+a {
+    color: gainsboro;
+    font-family: Verdana;
+    font-size: 150%;
+}
